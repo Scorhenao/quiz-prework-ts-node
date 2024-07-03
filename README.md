@@ -61,14 +61,14 @@ Preguntas de Selección Múltiple (20)
 
     ¿Cuál de las siguientes es la forma correcta de declarar una variable en JavaScript?
 
-    (A) var myVariable; CORRECTA
+    (A) var myVariable;
     B) variable myVariable;
     C) let myVariable;
     D) A y C son correctas.
 
     ¿Qué método se utiliza para agregar un elemento al final de un array en JavaScript?
 
-    (A) push() CORRECTA
+    (A) push() 
     B) pop()
     C) shift()
     D) unshift()
@@ -76,7 +76,7 @@ Preguntas de Selección Múltiple (20)
     ¿Cuál de los siguientes operadores se utiliza para comparar tanto el valor como el tipo de dos variables en JavaScript?
 
     A) == 
-    (B) === CORRECTA
+    (B) ===
     C) !=
     D) !==
 
@@ -84,7 +84,7 @@ Preguntas de Selección Múltiple (20)
 
     console.log(typeof null);
 
-    (A) null CORRECTA
+    (A) null
     B) undefined
     C) object
     D) number
